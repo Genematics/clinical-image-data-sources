@@ -1,6 +1,6 @@
-# Clinical Data Sources
+# Clinical Image Data Sources
 All sources provided by this list are deemed useful or relevant for the
-Genematics Cloud imaging project, where each licence and availability
+Genematics Imaging Project, where each licence and availability
 has been checked.
 
 _Source:_
